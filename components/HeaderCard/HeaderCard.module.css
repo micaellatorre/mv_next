@@ -1,0 +1,25 @@
+.card_background { 
+    display: flex;
+    flex-direction: column;
+    background-color: #535353;
+    color: '#fff';
+    border-radius: 5px;
+    margin: 0 0 20px;
+    padding: 0 20px 0;
+    min-width: 300px;
+    transition: all ease-in-out 0.25s;
+    
+}.card_background:hover {
+    background-color: #5f5f5f;
+    transform: scale(1.03);
+    transition: all ease-in-out 0.25s;
+}
+
+.card_header { 
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: space-between;
+}

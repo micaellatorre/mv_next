@@ -1,0 +1,19 @@
+{
+    "ingresos": [
+        {"nombre": "OSPIA", "monto": 40000},
+        {"nombre": "PPMM", "monto": 14000}
+    ],
+    "gastosFijos": [
+        {"nombre": "Fondo Semilla", "monto": 4167 },
+        {"nombre": "BJJ", "monto": 1200 },
+        {"nombre": "PPMM", "monto": 14000},
+        {"nombre": "GYM", "monto": 2500},
+        {"nombre": "Alquiler", "monto": 12000}
+    ],
+    "gastosGenerales": [
+        {"nombre": "Super", "monto": 472 }
+    ],
+    "disponible": [
+        {"nombre": "-", "monto": 0 }
+    ]
+}
